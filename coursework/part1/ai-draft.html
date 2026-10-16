@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            line-height: 1.7;
+            padding: 40px 20px;
+        }
+
+        .profile-card {
+            max-width: 650px;
+            margin: 0 auto;
+            padding: 35px;
+            background-color: white;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-photo {
+            width: 160px;
+            height: 160px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #2563eb;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            color: #17365d;
+            margin-bottom: 8px;
+        }
+
+        h2 {
+            color: #2563eb;
+            margin: 20px 0 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+
+        .learn-more {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 12px 25px;
+            background-color: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+
+        .learn-more:hover {
+            background-color: #17365d;
+        }
+
+        @media (max-width: 480px) {
+            .profile-card {
+                padding: 22px;
+            }
+
+            h1 {
+                font-size: 25px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="profile-card">
+
+        <!-- Your Photo -->
+        <img
+            src="myphoto.jpg"
+            alt="Photo of Sulayman Lowe"
+            class="profile-photo"
+        >
+
+        <!-- Main Heading -->
+        <h1>Sulayman Lowe</h1>
+        <h2>About Me</h2>
+
+        <!-- First Paragraph -->
+        <p>
+            My name is Sulayman Lowe. I work as an IT Technician
+            at the National Water and Electricity Company (NAWEC).
+            I am interested in computer systems, networking, and
+            information technology.
+        </p>
+
+        <!-- Second Paragraph -->
+        <p>
+            I am passionate about learning new skills, improving
+            my technical knowledge, and growing professionally.
+            I value hard work, teamwork, responsibility, and
+            continuous learning.
+        </p>
+
+        <!-- Learn More Link -->
+        <a href="about.html" class="learn-more">
+            Learn More About Me
+        </a>
+
+    </div>
+
+</body>
+</html>
