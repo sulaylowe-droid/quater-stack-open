@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 ## What I asked 
 I asked AI to creat a business service for me.
 ## What I asked the second time
 I asked it to be modified with few adjustments
+=======
+## What I asked the first time
+I asked AI about how to create html.
+The stucture it.
+Doctype tells the browser that the document type is HTLM.
+<Htlm lang="en"> is the root element.
+<meta charset="UTF-8"> allows the browser to display letters,symbols and characters correctly.
+<meta name="viewport" content="width=device-width, intial-scale=1.0"> helps display the webpage properly on screen size.
+Tittle: Does not display on the webpage (Browser tab).
+H1 is the main is for the main heading and is only used once.
+H2-H6 are section 
+
+>>>>>>> 2e5d30a (Initial commit)
