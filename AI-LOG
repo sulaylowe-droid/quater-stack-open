@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+## What I asked 
+I asked AI to creat a business service for me.
+## What I asked the second time
+I asked it to be modified with few adjustments
+=======
+## What I asked the first time
+I asked AI about how to create html.
+The stucture it.
+Doctype tells the browser that the document type is HTLM.
+<Htlm lang="en"> is the root element.
+<meta charset="UTF-8"> allows the browser to display letters,symbols and characters correctly.
+<meta name="viewport" content="width=device-width, intial-scale=1.0"> helps display the webpage properly on screen size.
+Tittle: Does not display on the webpage (Browser tab).
+H1 is the main is for the main heading and is only used once.
+H2-H6 are section 
+
+>>>>>>> 2e5d30a (Initial commit)
+=======
+## What I ask for the first time
+I ask AI to explain the HTML elements in each step.
+To have a better understand and how to use them.
+>>>>>>> c237cf4 (exercise 1-4)
+=======
+## What I ask for the first time
+I asked AI to create a HTML about me.
+One <h1> with my name and at least three <h2> sections — suggested: About Me, My Background, What I'm Working.
+At least three paragraphs of real content and One <ol> and one <ul> , each earning its type.
+<strong> at least twice, <em> at least twice, <abbr> at least once — each one justified.
+<hr> used as a genuine thematic break, not a decoration with Minimum 150 words of real content — no placeholder text anywhere.
+>>>>>>> 3cba929 (exercise 1-5)

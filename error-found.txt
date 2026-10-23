@@ -1,0 +1,13 @@
+## Unclosed <title> element
+Incorrect <h1> closing tag
+Unclosed <h2> heading
+Mismatched <strong> and <em> tags
+Unclosed <h3> heading
+Unclosed Reading list item
+Unclosed Gaming list item
+Mismatched heading tags
+Unclosed Book One list item
+Incorrectly nested ordered list
+Unclosed Book Five list item
+Unclosed first paragraph
+Incorrect nesting of <strong> and <p>
